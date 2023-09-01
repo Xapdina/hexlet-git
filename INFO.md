@@ -1,1 +1,2 @@
-git is awesome!
+git in awesome!
+new line
